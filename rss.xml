@@ -11,32 +11,9 @@
     <atom:link href="https://www.yangfei.name/blog/rss.xml" rel="self" type="application/rss+xml" />
     <language>zh-CN</language>
     <description>意思集：杨飞的个人博客，记录生活，原创文学，分享影视，音乐，读书，美食等有意思的内容！</description>
-    <lastBuildDate>Wed Nov 21 2018 11:22:30 GMT+0800 (中国标准时间)</lastBuildDate>
-    <pubDate>Wed Nov 21 2018 11:22:30 GMT+0800 (中国标准时间)</pubDate>
+    <lastBuildDate>Wed Nov 21 2018 11:33:24 GMT+0800 (中国标准时间)</lastBuildDate>
+    <pubDate>Wed Nov 21 2018 11:33:24 GMT+0800 (中国标准时间)</pubDate>
   
-    <item>
-    <title> 测试</title>
-    <link>https://www.yangfei.name/blog/post/d7856fb61187e6d1.html</link>
-    <guid>d7856fb61187e6d1</guid>
-    <pubDate>Sun May 30 2010 19:07:00 GMT+0800 (中国标准时间)</pubDate><dc:creator>云泽</dc:creator>
-    <description><![CDATA[
-       喝酒，大醉一场。
-    ]]></description>
-    <content:encoded xml:lang="zh-CN"><![CDATA[
-      <pre><code class="language-javascript">(function(){
-    window.isDarked = false;
-    var arr,reg = new RegExp(&quot;(^| )isDarked=([^;]*)(;|$)&quot;);
-    if (arr = document.cookie.match(reg)){
-        if(unescape(arr[2]) === &#39;true&#39;){
-            var className = document.documentElement.className,hasClass = new RegExp(&quot;(\\s|^)color-dark(\\s|$)&quot;).test(className);
-            !hasClass &amp;&amp; (document.documentElement.className += &quot; &quot; + &#39;color-dark&#39;);
-            window.isDarked = true
-        }
-    }
-})();</code></pre>
-
-    ]]></content:encoded>
-    </item>
     <item>
     <title>珍惜</title>
     <link>https://www.yangfei.name/blog/post/3c4526818e37beb4.html</link>
